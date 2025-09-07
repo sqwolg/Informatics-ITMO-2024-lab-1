@@ -23,11 +23,8 @@ echo "Welcome, $@"
 
 ### Пример выполнения
 ```bash
-bash script.bash arg1 arg2 arg3
-```
-**Вывод:**
-```
-Полученные аргументы: arg1 arg2 arg3
+$ bash script.bash arg1 arg2 arg3
+Welcome, arg1 arg2 arg3
 ```
 
 ### Результат
